@@ -1,0 +1,24 @@
+body {
+  background: #ece7e7;
+}
+
+.redBg {
+  background-color: red;
+  border-radius: 51px;
+  color: white;
+  padding: 5px;
+}
+
+.pokemon {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.imageSetting {
+  height: 65px;
+  background-position: center;
+  background-size: contain;
+  text-align: center;
+  background-repeat: no-repeat;
+  width: 100%;
+}
